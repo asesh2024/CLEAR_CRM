@@ -1,0 +1,11 @@
+{
+  "definition": "Monte Carlo estimated normalized 3-objective dominated volume, reference (0,0,0), fixed R/28, 1-E/150,1-C/225; 40,000 uniform points, weight sweep only",
+  "values": {
+    "adaptive_two": 0.20155,
+    "clear_cost": 0.19805,
+    "clear_no_dp": 0.2036,
+    "entropy_two": 0.2253,
+    "fixed_two": 0.243975,
+    "full_input_route": 0.192375
+  }
+}
